@@ -6,5 +6,5 @@ printf("Welcome to Bangalore");
 printf("places in Bangalore\n");
 printf("majestic\n");
 printf("shivajinagar\n");
-
+printf("thank u fro visiting");
 }
