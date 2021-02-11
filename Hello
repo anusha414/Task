@@ -3,5 +3,9 @@ main()
 {
 printf("Hello World\n");
 printf("Welcome to Bangalore");
+printf("places in Bangalore\n");
+printf("majestic\n");
+printf("shivajinagar\n");
+printf("thank u fro visiting");
 printf("already visited places in bangalore\n");
 }
